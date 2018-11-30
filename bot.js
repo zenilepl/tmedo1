@@ -11,4 +11,4 @@ channel.send(`hi`);
 })
  
  
-client.login("NDc2NDg3MzU2OTc5ODcxNzU0.DuMiHg.wM9DBc-xVklsxGit4ZifYGGND2k");
+client.login("process.env.BOT_TOKEN");
